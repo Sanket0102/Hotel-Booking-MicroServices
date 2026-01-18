@@ -1,0 +1,12 @@
+com\hotel_app\HotelBookedRoomServiceApplication.class
+com\hotel_app\service\BookedRoomService.class
+com\hotel_app\exception\ResourceNotFoundException.class
+com\hotel_app\dto\RoomResponse.class
+com\hotel_app\exception\InvalidBookingRequestException.class
+com\hotel_app\dto\BookingResponse.class
+com\hotel_app\dto\Room.class
+com\hotel_app\repository\BookedRoomRepository.class
+com\hotel_app\client\RoomServiceClient.class
+com\hotel_app\controller\BookingRoomController.class
+com\hotel_app\model\BookedRoomEntity.class
+com\hotel_app\service\BookedRoomServiceImpl.class
