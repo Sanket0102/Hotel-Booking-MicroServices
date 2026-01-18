@@ -1,0 +1,6 @@
+com\hotel_app\config\GatewayConfig.class
+com\hotel_app\filter\JwtAuthenticationFilter.class
+com\hotel_app\utils\JwtUtils.class
+com\hotel_app\controller\FallbackController.class
+com\hotel_app\HotelApiGatewayApplication.class
+com\hotel_app\config\CorsConfig.class

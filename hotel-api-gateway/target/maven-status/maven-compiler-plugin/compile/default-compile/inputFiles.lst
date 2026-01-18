@@ -1,0 +1,6 @@
+D:\HotelBookingApp\hotel-api-gateway\src\main\java\com\hotel_app\config\CorsConfig.java
+D:\HotelBookingApp\hotel-api-gateway\src\main\java\com\hotel_app\config\GatewayConfig.java
+D:\HotelBookingApp\hotel-api-gateway\src\main\java\com\hotel_app\controller\FallbackController.java
+D:\HotelBookingApp\hotel-api-gateway\src\main\java\com\hotel_app\filter\JwtAuthenticationFilter.java
+D:\HotelBookingApp\hotel-api-gateway\src\main\java\com\hotel_app\HotelApiGatewayApplication.java
+D:\HotelBookingApp\hotel-api-gateway\src\main\java\com\hotel_app\utils\JwtUtils.java
